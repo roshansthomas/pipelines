@@ -60,3 +60,6 @@ The meeting is happening every other Wed 10-11AM (PST)
 ## Acknowledgments
 
 Kubeflow pipelines uses [Argo Workflows](https://github.com/argoproj/argo-workflows) by default under the hood to orchestrate Kubernetes resources. The Argo community has been very supportive and we are very grateful. Additionally there is Tekton backend available as well. To access it, please refer to [Kubeflow Pipelines with Tekton repository](https://github.com/kubeflow/kfp-tekton).
+
+## Survey
+Please help us to provide your feedback [here](https://amazonmr.au1.qualtrics.com/jfe/form/SV_3fNc9oH4ql0guCq?Session=HAN7). Participants who complete the surveys from AWS Innovate Online Conference – AI/ML Edition will receive a gift code for USD25 in AWS credits. AWS credits will be sent via email by 31 March, 2022.
